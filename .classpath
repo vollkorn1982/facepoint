@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Programme/Xuggle/share/java/jars/xuggle-xuggler-test.jar"/>
+	<classpathentry kind="lib" path="C:/Programme/Xuggle/share/java/jars/commons-cli.jar"/>
+	<classpathentry kind="lib" path="C:/Programme/Xuggle/share/java/jars/logback-classic.jar"/>
+	<classpathentry kind="lib" path="C:/Programme/Xuggle/share/java/jars/logback-core.jar"/>
+	<classpathentry kind="lib" path="C:/Programme/Xuggle/share/java/jars/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Programme/Xuggle/share/java/jars/xuggle-xuggler.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/swingx-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/Claus/ooxml-lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/jfreechart-1.0.14-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/jfreechart-1.0.14-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tews/workspace/JARS/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
